@@ -16,7 +16,7 @@ search_omit: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender         - Male<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of birth  - May 5th, 1993<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place of birth - Dormagen <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citizenship    - Germany
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citizenship    - German
 
 ## <u><i>Education</i></u>
 
