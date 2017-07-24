@@ -8,7 +8,7 @@ search_omit: true
 
 ## <u><i>Contact Information</i></u>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: Sebastian.Becker@uni-bonn.de
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: Sebastian.Becker@uni-bonn.de<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub: [SeBecker](https://github.com/SeBecker/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adress: <br>
