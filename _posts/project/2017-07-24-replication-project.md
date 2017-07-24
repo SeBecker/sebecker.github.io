@@ -3,12 +3,12 @@ layout: post
 title: "Replication Project - Income and democracy"
 excerpt: 
 categories: articles
-tags: [project, replication, Acemoglu, democracy, income]
+tags: [project, replication, Acemoglu, democracy, income, waf, python, stata]
 comments: true
 share: true
 ---
 <figure>
-    <img src="/images/F1.png"" alt="image"></a>
+    <img src="/images/F1.png" alt="image">
     <figcaption><title="Figure1">Figure 1</a>.</figcaption>
 </figure>
 
