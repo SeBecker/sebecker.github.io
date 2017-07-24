@@ -5,7 +5,7 @@ locale: en_US
 description: Welcome to my personal website.
 logo: Bild3.png
 search: true
-url: http://sebecker.github.io
+url: https://sebecker.github.io
 
 # Jekyll configuration
 
