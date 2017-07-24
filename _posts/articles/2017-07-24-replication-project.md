@@ -4,6 +4,7 @@ title: "Replication Project - Income and Democracy"
 excerpt: 
 categories: articles
 tags: [project, replication, Acemoglu, democracy, income, waf, python, stata]
+author: sebastian_becker
 comments: true
 share: true
 ---
