@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 <figure>
-    <img src=""/images/F1.png"" alt="image"></a>
+    <img src="/images/F1.png"" alt="image"></a>
     <figcaption><title="Figure1">Figure 1</a>.</figcaption>
 </figure>
 
