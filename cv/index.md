@@ -9,20 +9,21 @@ search_omit: true
 ## <u><i>Contact Information</i></u>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: Sebastian.Becker@uni-bonn.de
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub: [SeBecker](https://github.com/SeBecker/)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adress: <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sebastian Becker<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Friedlandstraße 28<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;53117 Bonn<br>
 
-## <u>Personal details</u>
+## <u><i>Personal details</i></u>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender         - Male<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of birth  - May 5th, 1993<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place of birth - Dormagen <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citizenship    - Germany
 
-## <u>Education</u>
+## <u><i>Education</i></u>
 
 + *Bachelor of Science in Economics*<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rheinische Friedrich-Wilhelms-Universität Bonn 2012-2015<br>
@@ -32,13 +33,13 @@ search_omit: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rheinische Friedrich-Wilhelms-Universität Bonn since 2015
 
 
-## <u>Programming and Software skills</u>
+## <u><i>Programming and Software skills</i></u>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Programming skills: Python, Java
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Software skills: Stata, R, Git, Github, Microsoft Office
 
-## <u>Interests</u>
+## <u><i>Interests</i></u>
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Industrial Organization
