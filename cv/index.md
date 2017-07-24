@@ -25,11 +25,11 @@ search_omit: true
 
 ## <u><i>Education</i></u>
 
-+ <u>*Bachelor of Science in Economics*</u><br> 
++ <u><i>Bachelor of Science in Economics</i></u><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rheinische Friedrich-Wilhelms-Universität Bonn 2012-2015<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Reputation with heterogeneous audiences*
 
-+ <u>*Master of Science in Economics*</u> <br>
++ <u><i>Master of Science in Economics</i></u> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rheinische Friedrich-Wilhelms-Universität Bonn since 2015
 
 
