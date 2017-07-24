@@ -30,15 +30,15 @@ search_omit: true
 
 ## <u><i>Programming and Software skills</i></u>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Programming skills: Python
+...... + Programming skills: Python
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Software skills: Stata, R, Git, Microsoft Office
+...... + Software skills: Stata, R, Git, Microsoft Office
 
 ## <u><i>Interests</i></u>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Industrial Organization
+...... + Industrial Organization
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Applied Micro
+...... + Applied Micro
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; + Politics in general
+...... + Politics in general
