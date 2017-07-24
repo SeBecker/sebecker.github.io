@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Replication Project - Income and democracy"
+title: "Replication Project - Income and Democracy"
 excerpt: 
 categories: articles
 tags: [project, replication, Acemoglu, democracy, income, waf, python, stata]
