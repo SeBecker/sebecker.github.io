@@ -30,9 +30,9 @@ search_omit: true
 
 ## <u><i>Programming and Software skills</i></u>
 
-+ Programming skills: Python
++ Programming: Python
 
-+ Software skills: Stata, R, Git, Microsoft Office
++ Software: Stata, R, Git, Microsoft Office
 
 ## <u><i>Interests</i></u>
 
