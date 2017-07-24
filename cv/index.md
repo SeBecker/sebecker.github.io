@@ -11,11 +11,6 @@ search_omit: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E-mail: Sebastian.Becker@uni-bonn.de<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub: [SeBecker](https://github.com/SeBecker/)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adress: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sebastian Becker<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Friedlandstraße 28<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;53117 Bonn<br>
-
 ## <u><i>Personal details</i></u>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender         - Male<br> 
@@ -35,9 +30,9 @@ search_omit: true
 
 ## <u><i>Programming and Software skills</i></u>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Programming skills: Python, Java
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Programming skills: Python
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Software skills: Stata, R, Git, Github, Microsoft Office
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;* Software skills: Stata, R, Git, Microsoft Office
 
 ## <u><i>Interests</i></u>
 
