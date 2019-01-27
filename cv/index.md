@@ -15,7 +15,6 @@ search_omit: true
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gender         - Male<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date of birth  - May 5th, 1993<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Place of birth - Dormagen <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Citizenship    - German
 
 ## <u><i>Education</i></u>
@@ -26,19 +25,18 @@ search_omit: true
 
 + <u><i>Master of Science in Economics</i></u> <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rheinische Friedrich-Wilhelms-Universität Bonn, since 2015
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thesis: Estimating the Marginal Return to Education in Germany*
 
 ## <u><i>Programming and Software skills</i></u>
 
 + Programming: Python
 
-+ Software: Stata, R, Git, Microsoft Office
++ Software: Stata, Git, Microsoft Office
 
 ## <u><i>Interests</i></u>
 
-
 + Industrial Organization
 
-+ Applied Micro
++ Applied Microeconomics
 
-+ Politics in general
++ Scientific Programming
