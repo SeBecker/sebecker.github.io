@@ -24,7 +24,7 @@ search_omit: true
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Thesis: Reputation with heterogeneous audiences*
 
 + <u><i>Master of Science in Economics</i></u> <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rheinische Friedrich-Wilhelms-Universität Bonn, since 2015
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Rheinische Friedrich-Wilhelms-Universität Bonn, since 2015<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Thesis: Estimating the Marginal Return to Education in Germany*
 
 ## <u><i>Programming and Software skills</i></u>
